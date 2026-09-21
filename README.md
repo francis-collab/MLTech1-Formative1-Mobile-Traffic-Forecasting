@@ -107,7 +107,7 @@ psutil
 
 ---
 
-## 1. Video Demo
+## Video Demo
 
 > **YouTube link:**  
 > https://youtu.be/vfRVARsZ854  
