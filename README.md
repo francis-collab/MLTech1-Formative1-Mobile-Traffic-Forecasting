@@ -29,6 +29,7 @@ The work follows a systematic experimental process with clear justification for 
 ---
 
 ## Repository Structure
+```bash
 ├── README.md
 ├── notebook/
 │   └── MLTech1_Formative1.ipynb          # Complete Colab notebook
@@ -36,7 +37,7 @@ The work follows a systematic experimental process with clear justification for 
 │   └── Formative1_Report.pdf             # Final research report
 ├── figures/                              # Key plots used in the report (optional)
 └── requirements.txt
-
+```
 
 ## Dataset
 
@@ -94,6 +95,7 @@ It must be downloaded from Harvard Dataverse and placed in Google Drive as descr
 ---
 
 ## Requirements
+```bash
 tensorflow
 pandas
 numpy
@@ -102,6 +104,7 @@ seaborn
 scikit-learn
 statsmodels
 psutil
+```
 
 (Or simply run the notebook in Google Colab – all libraries are installed automatically.)
 
