@@ -33,9 +33,6 @@ The work follows a systematic experimental process with clear justification for 
 ├── README.md
 ├── notebook/
 │   └── MLTech1_Formative1.ipynb          # Complete Colab notebook
-├── report/
-│   └── Formative1_Report.pdf             # Final research report
-├── figures/                              # Key plots used in the report (optional)
 └── requirements.txt
 ```
 
